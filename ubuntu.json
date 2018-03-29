@@ -182,6 +182,7 @@
         "script/motd.sh",
         "{{user `custom_script`}}",
         "script/minimize.sh",
+        "script/depends.sh",
         "script/cleanup.sh"
       ],
       "type": "shell",
